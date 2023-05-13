@@ -14,10 +14,30 @@
    ## Modelo de domínio DSList
  </div>
  
+ 
+ 
+ 
 <div align="center">
   
   ![md_dslist](https://github.com/maririb749/dslist/assets/85500087/3630bfa7-08f2-4c6a-ab57-05be22731dac)
 </div>
+
+
+ 
+<div align="center">
+  <table>
+  <tr>
+    <td><img src="https://github.com/maririb749/dslist/assets/85500087/6afa0bd0-d9a8-4b31-98a7-bf5cf0f12b43">
+    <td><img src="https://github.com/maririb749/dslist/assets/85500087/6139ee9e-ca10-4a0a-99c4-c23645715517">
+  </tr>
+</table>
+  
+</div>
+
+
+
+
+
  
  ## Como criar e executar o DSCommerce localmente;
  
@@ -46,6 +66,7 @@
 - Postman
 - Postgres
 - Reilway
+- Docker
 
 
 
