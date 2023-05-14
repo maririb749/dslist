@@ -23,7 +23,22 @@
 </div>
 
 
- 
+<div align="center">
+  
+  ## Exemplo da funcionalidade de reposicionamento dos cards:
+
+</div>
+
+
+
+<div align="center">
+  
+ ![video_cortado (1)](https://github.com/maririb749/dslist/assets/85500087/de79728c-a486-431f-8218-351016c46d26)
+
+</div>
+
+
+
 <div align="center">
   <table>
   <tr>
