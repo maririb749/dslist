@@ -54,7 +54,7 @@
 
 
  
- ## Como criar e executar o DSCommerce localmente;
+ ## Como criar e executar o DSList localmente;
  
  Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fácil. Certifique-se de ter o Git e JDK17 instalados e siga as instruções abaixo.
 
